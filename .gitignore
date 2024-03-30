@@ -1,0 +1,31 @@
+# Begin Default:
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/Builds/
+/Debug/
+/Logs/
+/Recordings/
+/.vs/
+/.vscode/
+/.idea/
+/*.csproj
+/*.sln
+/*.png
+/*.jpg
+/*.log
+*.rar
+*.zip
+*.apk
+*.aab
+*.7z
+# End Default
+
+# Begin Custom:
+/.svn
+/.vs
+/obj
+/Library
+/Temp
+/Assets/IgnoreFolder
+/Assets/IgnoreFolder.meta
